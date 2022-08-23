@@ -8,6 +8,8 @@ redpixupleft.asm    :paint a red pixel up in left corner of the screen (assembly
 
 ![imagen](https://user-images.githubusercontent.com/5332593/186039101-0320ffde-56c2-4536-8018-f2e0dcba4cad.png)
 
+8pixelscolor.asm    :paint pixels from every row first 8 rows of screen
+8pixelscolor.txt
 
 restaconcarry2.asm : efectua una resta de un valor de 8 bits con acarreo (carry) para mostrar el valor negativo
 
