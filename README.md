@@ -1,6 +1,6 @@
 # asm_z80_cpc
 
-Algunos ejercicios de programación en código máquina y en lenguaje ensamblador para el procesador Z80 probados sobre un emulador de Amstrad CPC (WinApe).
+Some examples of programming in machine code and assembly for the Z80 processor under Amstrad CPC 464 emulator.
 
 redpixupleft0x      :paint a red pixel up in left corner of the screen (machine code)
 
@@ -20,9 +20,5 @@ redpixupleft.asm    :paint a red pixel up in left corner of the screen (assembly
 
 ![imagen](https://user-images.githubusercontent.com/5332593/186059486-8fb43b9c-7ff2-405e-ac31-f985b93b4845.png)
 
-
-restaconcarry2.asm : efectua una resta de un valor de 8 bits con acarreo (carry) para mostrar el valor negativo
-
-sumaconcarry.asm   : realiza una suma de un valor de 16 bits con acarreo (carry)
 
 
