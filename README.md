@@ -32,5 +32,14 @@ andtbl.txt
 
 ![image](https://user-images.githubusercontent.com/5332593/187571957-9c17466a-afc3-4cbd-8504-f0198611119f.png)
 
+or0.txt
+
+![image](https://user-images.githubusercontent.com/5332593/187572609-91d73be1-9db8-4097-b813-f74d960b6f0d.png)
+
+ortbl.txt
+
+![image](https://user-images.githubusercontent.com/5332593/187572870-3f2562c0-1ba7-49a1-aab1-573b16d10704.png)
+
+
 
 
