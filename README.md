@@ -20,10 +20,17 @@ redpixupleft.asm    :paint a red pixel up in left corner of the screen (assembly
 
 ![imagen](https://user-images.githubusercontent.com/5332593/186059486-8fb43b9c-7ff2-405e-ac31-f985b93b4845.png)
 
-
+add2nbr.txt
 
 ![image](https://user-images.githubusercontent.com/5332593/187340702-35567cbc-5d4d-4232-b2a9-afcd87c8c5cb.png)
 
+and0.txt
+
 ![image](https://user-images.githubusercontent.com/5332593/187571398-a553f9d6-d800-4db3-873c-9a372829fb1b.png)
+
+andtbl.txt
+
+![image](https://user-images.githubusercontent.com/5332593/187571957-9c17466a-afc3-4cbd-8504-f0198611119f.png)
+
 
 
